@@ -516,7 +516,7 @@ class A11y {
     } else {
       setTimeout(function () {
         container.style.display = "none";
-      }, 300);
+      }, 290);
     }
   }
 
